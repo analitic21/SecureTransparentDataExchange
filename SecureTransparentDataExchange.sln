@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureTransparentDataExchange", "SecureTransparentDataExchange.csproj", "{B3F48F48-C7B3-D5AD-888D-388DBE434408}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "blockhainlogistics.client", "..\blockhainlogistics\blockhainlogistics.client\blockhainlogistics.client.esproj", "{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blockhainlogistics.Server", "..\blockhainlogistics\blockhainlogistics.Server\blockhainlogistics.Server.csproj", "{57395FFD-EF03-4F37-A8C9-AD259E7B8ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F48F48-C7B3-D5AD-888D-388DBE434408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F48F48-C7B3-D5AD-888D-388DBE434408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F48F48-C7B3-D5AD-888D-388DBE434408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F48F48-C7B3-D5AD-888D-388DBE434408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90140AAD-F97D-B3A5-E2B2-0C7A233F26AB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{57395FFD-EF03-4F37-A8C9-AD259E7B8ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57395FFD-EF03-4F37-A8C9-AD259E7B8ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57395FFD-EF03-4F37-A8C9-AD259E7B8ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57395FFD-EF03-4F37-A8C9-AD259E7B8ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4954EF2D-0FE7-4841-9346-525FA403005B}
+	EndGlobalSection
+EndGlobal

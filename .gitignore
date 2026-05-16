@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# React
+node_modules/
+dist/
+
+# environment
+.env
+.env.local
+
+# publish
+publish/
+
+# secrets
+appsettings.Development.json
+*.pem
+*.key
+*.crt
+*.pfx
+
+# logs
+*.log
